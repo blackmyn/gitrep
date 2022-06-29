@@ -26,3 +26,4 @@ elif (count >= 6):
     a.insert(5,newmin)
     print("Your changed array:")
     print(a)
+print("hell yea")
